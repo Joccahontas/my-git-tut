@@ -1,4 +1,5 @@
 Hello world!
+There's a bug here
 Start of the line
 This is a second line.
 This is a fourth line.
