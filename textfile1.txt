@@ -1,4 +1,5 @@
 Hello world!
+Start of the line
 This is a second line.
 This is Anne
 And I'm Ben!
