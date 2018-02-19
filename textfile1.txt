@@ -2,3 +2,4 @@ Hello world!
 This is a second line.
 This is Anne
 And I'm Ben!
+End of the line
